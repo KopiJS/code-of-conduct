@@ -8,6 +8,13 @@ All attendees at any Kopi.JS event are required to agree with the following code
 
 If you have any questions or comments, before, during or after any Kopi.JS event, feel free to contact:
 
+Ken Chua
+<suprabluesil@gmail.com>
+
+[Khor Kexin](https://twitter.com/khorkexin)
+
+[Sebastiaan Deckers](https://twitter.com/sebdeckers)
+
 Lim Chee Aun
 <cheeaun@gmail.com>
 
